@@ -78,6 +78,48 @@
       "minReps": 10,
       "maxReps": 15,
       "units": "rep"
+    },
+    {
+      "id": 8,
+      "name": "walking lunges",
+      "minReps": 10,
+      "maxReps": 15,
+      "units": "step"
+    },
+    {
+      "id": 9,
+      "name": "mountain climbers (https://www.youtube.com/watch?v=nmwgirgXLYM)",
+      "minReps": 15,
+      "maxReps": 25,
+      "units": "rep"
+    },
+    {
+      "id": 10,
+      "name": "wall squats (hands overhead, facing wall)",
+      "minReps": 5,
+      "maxReps": 10,
+      "units": "rep"
+    },
+    {
+      "id": 11,
+      "name": "close grip pushups",
+      "minReps": 15,
+      "maxReps": 20,
+      "units": "rep"
+    },
+    {
+      "id": 12,
+      "name": "dive bomber pushups (https://www.youtube.com/watch?v=neiHSQrS0YI)",
+      "minReps": 10,
+      "maxReps": 25,
+      "units": "rep"
+    },
+    {
+      "id": 13,
+      "name": "single leg squats (use a desk for support as needed)",
+      "minReps": 3,
+      "maxReps": 6,
+      "units": "rep"
     }
   ]
 }
